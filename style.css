@@ -2,7 +2,12 @@ h1, h2{
   color: rgb(0, 21, 60);
   text-align: center;
 }
-h4, ul{
+h4{
   color: rgb(15, 52, 121);
   text-align: center;
 }
+ul{
+  color: rgb(15, 52, 121);
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: left;  
