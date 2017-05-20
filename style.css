@@ -1,10 +1,8 @@
-h1{
+h1, h2{
   color: rgb(0, 21, 60);
+  text-align: center;
 }
-h2{
-color: rgb(0, 21, 60); 
-}
-
 h4, ul{
-color: rgb(15, 52, 121);
+  color: rgb(15, 52, 121);
+  text-align: center;
 }
