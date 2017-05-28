@@ -13,3 +13,6 @@ h4, ul{
 .ascend{
   border-style: solid
 }
+#header{
+  border-style: outset;
+}
