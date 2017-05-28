@@ -11,7 +11,7 @@ h4, ul{
 }
 
 .ascend{
-  border-style: solid
+  border-style: groove;
 }
 #header{
   border-style: outset;
