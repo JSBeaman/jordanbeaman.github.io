@@ -14,7 +14,7 @@ h2{
 }
 .header{
   border-style: groove;
-  border-width: thick;
+  border-width: 5px 5px 5px 5px;
 }
 
  
