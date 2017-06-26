@@ -18,6 +18,7 @@ h2{
 }
 .ascendlist{
   text-align: left;
-  margin: 200px;
+  left-margin: 200px;
+  right-margin: 200px;
 }
  
